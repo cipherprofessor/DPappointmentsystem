@@ -7,7 +7,7 @@ export default withSentryConfig(
     // For all available options, see:
     // https://github.com/getsentry/sentry-webpack-plugin#options
 
-    org: "mohsinappointmentsystem",
+    org: "mohsin-manzoor",
     project: "appointmentsystem",
 
     // Only print logs for uploading source maps in CI
